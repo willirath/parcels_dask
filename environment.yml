@@ -1,0 +1,10 @@
+name: py3_parcels_dask
+channels:
+  - conda-forge
+dependencies:
+  - python=3
+  - parcels
+  - dask 
+  - distributed 
+  - bokeh 
+  - jupyterlab
